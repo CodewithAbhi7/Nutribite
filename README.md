@@ -10,6 +10,7 @@ Nutribite is a web-based platform for recipe and food item search.
     python -m venv venv
     ```
     
+    
 2. Activate the virtual environment:
     On Windows:
     ```

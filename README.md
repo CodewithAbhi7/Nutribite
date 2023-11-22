@@ -4,6 +4,7 @@ Nutribite is a web-based platform for recipe and food item search.
 • Users can browse a vast collection of recipes, filter search results by cuisine, meal type, dietary preferences, and country of origin, and save their favorite recipes.
 • The platform has an intuitive and user-friendly interface.
 ## How to start your project?
+
 1.Create a virtual environment:
     ```
     python -m venv venv
